@@ -1,1 +1,1 @@
-It is interesting to use commands in the console
+It is interesting to use commands
